@@ -1,0 +1,63 @@
+
+
+.rot				{color:red;}
+
+.hintergrund		{border:1px solid black;
+					 background-color:#d9d9d9;
+					 margin-top:50px;
+					 margin-bottom:50px;}
+					 
+.news				{border:1px solid black;
+					 margin-top:30px;
+					 padding:10px;
+					 background-color:white;
+					 height:300px;}
+		 
+.kontakt			{border:1px solid black;
+					 margin-top:30px;
+					 padding:10px;
+					 background-color:white;
+					 height:300px;}
+					 
+.hauptteil			{border:1px solid black;
+					 margin-top:30px;
+					 padding:10px;
+					 background-color:white;
+					 height:400px;
+					 text-align:center;}
+					 
+.Spiel				{border:1px solid black;
+					 margin-top:30px;
+					 padding:10px;
+					 background-color:white;
+					 margin-bottom:110px;
+					 height:600px;}
+
+.anderes			{border:1px solid black;
+					 margin-top:30px;
+					 margin-bottom:30px;
+					 padding:10px;
+					 background-color:white;
+					 height:300px;
+					 text-align:center;}
+					 
+.row				{margin-right:0px;
+					 margin-left:0px;}
+					 
+.Spiele-Info		{border:1px solid black;
+					 margin-top:30px;
+					 height:300px;
+					 padding:10px;
+					 background-color:white;}
+
+.platzfüller		{margin-top:30px;
+					 height:300px;
+					 padding:10px;
+					 background-color:blue;
+					 color:white;}
+					 		
+h4					{text-align:center;}
+					 
+body				{background-color:#ffbb33;}
+					 
+
